@@ -92,7 +92,6 @@ ul li a {
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
     background-position: right bottom;
     z-index: 5;
 }
@@ -102,7 +101,6 @@ ul li a {
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
     background-position: left top;
 }
 
@@ -111,7 +109,6 @@ ul li a {
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
     background-position: center;
 }
 
@@ -120,7 +117,6 @@ ul li a {
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
     background-position: bottom;
 }
 
@@ -129,7 +125,6 @@ ul li a {
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
     background-position: center;
 }
 
@@ -138,7 +133,6 @@ ul li a {
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 500px;
     background-position: center;
 }
 
